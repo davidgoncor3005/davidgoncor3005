@@ -6,4 +6,5 @@
 ## Mis estadisticas son:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=davidgoncor3005&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidgoncor3005)]
 
