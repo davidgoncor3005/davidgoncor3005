@@ -5,7 +5,7 @@ su cometido y poner documentación que guie.
 
 
 ## 🧭 Sobre mí
-- 🌱 Aprendiendo: JS, Figma, Docker.
+- 🌱 Aprendiendo: JS, Figma, Docker, NodeJS.
 - 🎯 Objetivo 2025: Constancia y aprendizaje.
 - ⚡ Curiosidad: Intento ir actualizado a las nuevas tecnologias que llegan.
 
@@ -16,7 +16,7 @@ su cometido y poner documentación que guie.
 | Frontend       | HTML · CSS · JS · Bootstrap                |
 | Bases de datos | MySQL · MongoDB                            |
 | DevOps         | Docker · GitHub Actions · CI/CD            |
-| Otros          | Figma                                      |
+| Otros          | Figma ·  NodeJS                                      |
 
 ## 📈🚀 Proyectos
 Aqui estarán los proyectos que se iran haciendo...
