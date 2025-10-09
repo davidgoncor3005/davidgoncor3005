@@ -22,7 +22,7 @@ En construcción.
 ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Gonzalez_Cordoba-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/david-gonz%C3%A1lez-c%C3%B3rdoba/)
 </br>
-[![Email](https://img.shields.io/badge/dgoncor30005@gmail.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:dgoncor3005@gmail.com)
+[![Email](https://img.shields.io/badge/dgoncor3005@gmail.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:dgoncor3005@gmail.com)
 
 ---
 > _Última actualización: 2025-10-09_
