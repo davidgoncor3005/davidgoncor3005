@@ -14,7 +14,7 @@ Me gusta ayudar, buscar soluciones sencillas que cumplan su propósito y documen
 | Backend        | Java · Node.js                               |
 | Bases de datos | MySQL · MongoDB                              |
 | DevOps         | Docker · GitHub Actions (CI/CD)              |
-| Otros          | Figma                                        |
+| UI/UX          | Figma                                        |
 
 ## 🚀 Proyectos
 En construcción.
