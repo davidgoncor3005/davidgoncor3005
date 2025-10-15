@@ -1,4 +1,4 @@
-# ¡Hola 👋! Soy davidgoncor 👨🏻‍💻
+# ¡Hola 👋! Soy David González Córdoba 👨🏻‍💻
 **Estudiante de 2º DAW | Full-Stack Jr con foco en Frontend**  
 Me gusta ayudar, buscar soluciones sencillas que cumplan su propósito y documentar lo que hago.
 
@@ -25,4 +25,4 @@ En construcción.
 [![Email](https://img.shields.io/badge/dgoncor3005@gmail.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:dgoncor3005@gmail.com)
 
 ---
-> _Última actualización: 2025-10-09_
+> _Última actualización: 2025-10-15_
