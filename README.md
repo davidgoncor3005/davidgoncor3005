@@ -13,7 +13,7 @@ Me gusta ayudar, buscar soluciones sencillas que cumplan su propósito y documen
 | Frontend       | HTML · CSS · JavaScript · Bootstrap          |
 | Backend        | Java · Node.js                               |
 | Bases de datos | MySQL · MongoDB                              |
-| DevOps         | Docker · GitHub Actions (CI/CD)              |
+| DevOps         | Docker · GitHub Actions · CI/CD              |
 | UI/UX          | Figma                                        |
 
 ## 🚀 Proyectos
