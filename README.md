@@ -21,6 +21,22 @@ Estoy centrado en seguir creciendo como desarrollador y aplicar buenas práctica
 
 ---
 
+## 💼 Experiencia
+
+### Desarrollador de aplicaciones web · NTT DATA
+**Contrato de prácticas · 2025 - 2026**
+
+Prácticas formativas en desarrollo de aplicaciones web, participando en tareas relacionadas con backend y APIs REST.  
+He trabajado con Spring Boot, OpenAPI/Swagger, Postman, Git/GitHub y bases de datos, colaborando en la implementación, revisión y prueba de endpoints.
+
+### Técnico de sistemas informáticos · Ayuntamiento de Gines
+**Contrato de prácticas · 2024**
+
+Prácticas formativas en el área de sistemas informáticos y soporte técnico.  
+Resolución de incidencias, trabajo con equipos, usuarios y apoyo en tareas.
+
+---
+
 ## 🛠️ Tecnologías y herramientas
 
 | Área | Tecnologías |
