@@ -98,13 +98,14 @@ Proyecto web desarrollado con **Symfony**, orientado a la gestión de videojuego
 
 Web personal publicada con **GitHub Pages** para mostrar mi perfil, tecnologías, proyectos y contacto.
 
-> Portfolio en proceso de actualización.  
-> La captura se añadirá más adelante, pero la web ya está publicada y se puede visitar.
+![Captura de Portfolio](./assets/img/portfolio-preview.png)
 
 **Stack:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
 
 🔗 Web publicada: [davidgoncor3005.github.io](https://davidgoncor3005.github.io/)  
 🔗 Enlace al repositorio: [davidgoncor3005.github.io](https://github.com/davidgoncor3005/davidgoncor3005.github.io)
